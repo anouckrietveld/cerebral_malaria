@@ -1,1 +1,3 @@
-# cerebral_malaria
+# The Infectious Etiology of Non-Traumatic Coma in Children in Malawi
+
+This thesis investigates the causes of infectious non-traumatic coma (NTC) in a cohort of 49 children from Queen Elizabeth Hospital, Malawi. With cerebral malaria previously considered a primary cause of NTC, the study aims to assess the likelihood of cerebral malaria and identify alternative bacterial and viral etiologies as malaria rates have declined. A diagnostic algorithm was developed and applied to clinical and laboratory data from the cohort to categorize cases. The results highlighted the prevalence of cerebral malaria and the random distribution of bacterial and viral causes across malaria probability groups. The study underscores the need for further research and improved control of infectious diseases to address non-traumatic coma in children.
